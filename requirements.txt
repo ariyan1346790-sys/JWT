@@ -1,0 +1,4 @@
+pycryptodome
+protobuf==4.25.3
+requests
+urllib3
